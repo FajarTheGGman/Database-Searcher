@@ -1,4 +1,4 @@
-#Copyright© By Fajar Firdaus
+#Copyright 2020 By Fajar Firdaus
 
 import Blinder
 from time import sleep
